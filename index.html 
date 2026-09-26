@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+ <html lang="zh-CN">
+ <head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>演示页面</title>
+ <style>
+ *{margin:0;padding:0;box-sizing:border-box;font-family:system-ui}
+ .top{background:#dd3333;color:#fff;padding:16px}
+ .top h2{margin-bottom:8px}
+ .btns{display:flex;gap:10px;margin:12px 0}
+ .btns button{flex:1;padding:10px;border:none;border-radius:6px;font-size:16px}
+ .tip{background:#fff3cd;color:#856404;padding:10px;margin:10px;border-radius:8px}
+ .item{background:#fff;margin:10px;padding:12px;border-radius:8px;box-shadow:0 0 3px #ccc}
+ .item img{width:80px;height:80px;object-fit:cover;border-radius:50%;float:left;margin-right:12px}
+ .tag-red{background:#f44336;color:#fff;padding:2px 6px;font-size:12px;border-radius:3px}
+ .tag-blue{background:#2196f3;color:#fff;padding:2px 6px;font-size:12px;border-radius:3px;margin-left:4px}
+ .clear{clear:both;height:10px}
+ </style>
+ </head>
+ <body>
+ <div class="top">
+   <h2>开奖信息展示</h2>
+ </div>
+ <div class="tip">
+ 温馨提示：本页面仅用于内部演示参考
+ </div>
+ <div class="item">
+  <img src="avatar1.jpg">
+  <h3>新澳269期【金马】精选【一码】精准中特【准】</h3>
+  <span class="tag-red">实名认证</span>
+  <span class="tag-blue">全网实力主任</span>
+  <p>浏览：908 点赞：258</p>
+  <div class="clear"></div>
+ </div>
+ <div class="item">
+  <img src="avatar2.jpg">
+  <h3>新澳269期【锦匠】精选【一码】精准中特【准】</h3>
+  <span class="tag-red">实名认证</span>
+  <span class="tag-blue">全网实力主任</span>
+  <p>浏览：899 点赞：264</p>
+  <div class="clear"></div>
+ </div>
+ <div style="text-align:center;margin:20px;">
+ <p>扫码关注公众号查看更多</p>
+ <img src="qrcode_for_gh_b6d525122936_430.jpg" style="width:200px;">
+ </div>
+ </body>
+ </html>
